@@ -248,7 +248,7 @@ while running:
             spawn_star = not spawn_star
             star.reset()
             
-    clock.tick(50)
+    clock.tick(200)
       
     screen.fill(LIGHT_GREY)  
     
